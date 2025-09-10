@@ -1,0 +1,1 @@
+from background_celery_client import Task as BackgroundCeleryTask
